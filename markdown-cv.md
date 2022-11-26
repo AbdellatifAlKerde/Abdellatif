@@ -18,3 +18,10 @@ Passionate and hardworking junior web developer, commitement is my main power, i
 2019 – 2020     Halba High School, Bac certificate.  
 2021 – 2022     ITO Institute Technology Orthodox, TS2 Degree in IT  
 2022 – 2023     ITO Institute Technology Orthodox, LT Degree in IT.
+
+
+# ADDITIONAL SKILLS
+
+* Computer Skills: CSS, HTML, Javascript, python. 
+* Linguistics: Can read, write, and speak English, arabic is my first language.  
+* Interests: Enjoy playing football and taking picture with my camera, interested about the new phone's technologies.
